@@ -43,6 +43,7 @@ High Tide has grown revenue from C$181M (FY2021) to C$594M (FY2025) while delive
 - [SEDAR+ Filings](https://www.sedarplus.ca/landingpage/en/search/search.html)
 - [SEC Filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=high+tide&CIK=&type=20-F&dateb=&owner=include&count=10&search_text=&action=getcompany)
 - [Company Website](https://hightideinc.com/)
+- Analyst coverage: BEACON Securities, ROTH Capital Partners, Haywood Securities, TD Cowen
 
 ## Disclaimer
 
