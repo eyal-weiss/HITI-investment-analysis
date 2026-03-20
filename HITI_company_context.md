@@ -1,6 +1,6 @@
 # High Tide Inc. (NASDAQ: HITI) -- Company Context
 
-*Compiled: March 9, 2026*
+*Compiled: March 21, 2026 (updated with Q1 FY2026 results)*
 
 ---
 
@@ -50,7 +50,7 @@ In November 2022, High Tide added **Cabana Elite**, a paid premium membership ti
 
 - **All-time high**: **C$16.94** on TSX-V (Feb 8, 2021) / **US$11.82** on NASDAQ (Feb 9, 2021), during the cannabis meme-stock mania.
 - **All-time low**: **C$1.42** (Mar 15, 2023), during the broader cannabis sector collapse.
-- **Current (early March 2026)**: ~US$2.37 / ~C$3.50, with a market cap of approximately US$195M.
+- **Current (March 21, 2026)**: US$2.24 / ~C$3.05, with a market cap of approximately US$197M.
 - The stock has been a victim of extreme cannabis sector sentiment. The MSOS cannabis ETF fell ~73% in 2022 and another ~46% in 2024. HITI has outperformed most cannabis peers operationally but has not been rewarded with a commensurate valuation re-rating.
 
 ### Key Regulatory Milestones
@@ -117,7 +117,7 @@ As of early 2026, the board has undergone recent changes:
 | Provinces with operations | 5 (BC, AB, SK, MB, ON) |
 | New stores opened in calendar 2025 | 27 (all organic) |
 | Long-term target | 350+ nationwide |
-| 2026 guidance | 20-30 new locations |
+| 2026 guidance | 20-30 new locations (management indicated likely toward the lower end) |
 | First European store | Berlin, Germany (opened Dec 1, 2025) |
 
 ### Cabana Club Loyalty Program
@@ -131,8 +131,10 @@ As of early 2026, the board has undergone recent changes:
 | 1,500,000 members | August 2024 |
 | 2,000,000 members | July 2025 |
 | 2,500,000 members (Canada) | Late 2025 |
+| 2,580,000 members (Canada) | January 2026 (Q1 FY2026) |
 | 6,560,000 members (globally) | Late 2025 |
-| Cabana Elite (paid tier) members | ~120,000 |
+| 6,650,000 members (globally) | January 2026 |
+| Cabana Elite (paid tier) members | 162,000+ |
 
 - Cabana Club is the **largest cannabis loyalty program globally**.
 - Member purchases represent **over 90%** of in-store sales.
@@ -147,7 +149,11 @@ As of early 2026, the board has undergone recent changes:
 | Q3 2025 revenue | C$149.7M (record at the time) |
 | Fiscal 2025 Adjusted EBITDA | C$38.2M |
 | Q4 2025 Adjusted EBITDA | C$12.4M (+51% QoQ) |
-| Revenue run rate | ~C$600M+ |
+| Q1 FY2026 revenue | C$178.3M (record, +25% YoY) |
+| Q1 FY2026 Adjusted EBITDA | C$11.5M (+62% YoY) |
+| Q1 FY2026 free cash flow | C$2.9M (vs -C$1.9M YoY) |
+| Trailing 12-month FCF | C$16.8M |
+| Revenue run rate | ~C$713M+ (annualized from Q1 FY2026) |
 | Cash position (end of FY2025) | C$48M (record; +223% since 2021) |
 | Free cash flow (FY2025) | C$12.0M |
 | Canadian market share | ~12% |
@@ -156,13 +162,18 @@ As of early 2026, the board has undergone recent changes:
 ### Retail Productivity
 
 - **Annualized sales per square foot**: ~$1,650-$1,734 across the Canna Cabana network (outperforms Walmart and Target on this metric).
+- **Annualized sales per sq ft**: $1,728 (Q1 FY2026, excl. stores <6 months).
+- **Revenue per store**: 1.9x peer average (December 2025).
 - **Same-store sales growth**: 7.4% in Q3 2025 (two-year high); 5% in Q1 2025.
+- **Same-store sales**: +0.5% in Q1 FY2026 (weather-impacted); +2% normalized (Oct-Dec 2025).
 
 ### E-Commerce
 
 - Operates the **two largest e-commerce platforms for consumption accessories globally** (Grasscity + Smoke Cartel) with a combined ~33M site visits (2020 figure).
 - E-commerce brands: Grasscity, Smoke Cartel, DankStop, Daily High Club, NuLeaf Naturals, FABCBD.
 - E-commerce has been declining as a share of revenue (from ~10% in Q1 2024 to ~5% in Q1 2025), reflecting both brick-and-mortar strength and e-commerce headwinds.
+- First sequential revenue increase in 2 years in Q1 FY2026. Platform relaunches showing conversion up 30-50%, orders up 30%.
+- CEO exploring "strategic options including potential transactions" for e-commerce assets.
 
 ### Notable Firsts and Records
 
@@ -174,6 +185,14 @@ As of early 2026, the board has undergone recent changes:
 ### Germany / Remexian
 
 - Remexian distributed **7 tonnes** of cannabis flower in Q2 2025, representing **16%** of the 43 tonnes imported into Germany that quarter.
+- **Q1 FY2026 consolidated revenue**: C$25M (first full quarter of Remexian).
+- **February 2026 record**: EUR7.5M (~C$12M) on 2.6 tonnes sold.
+- **Market share**: grew from 6.5% (Sept 2025) to 10.3% (Dec 2025) of German imports.
+- **German total imports**: 201 tonnes (2025) vs 73 tonnes (2024) = +176%.
+- 93 tonnes from Canada (~50% of German imports).
+- **Preliminary Q1 gross margin**: ~20% (normalizing to 22% by Q3).
+- Canadian biomass arriving at "best-in-class" procurement terms.
+- Monthly shipments Jan-Feb up 25% vs Dec 2025 quarter.
 - German medical cannabis patients grew from ~250,000 to ~900,000 after the April 2024 Consumer Cannabis Act.
 - German market annual revenues approaching EUR1 billion.
 
@@ -301,6 +320,7 @@ Notably, Seeking Alpha coverage of HITI is **overwhelmingly bullish**. Most publ
 - [High Tide About Page](https://hightideinc.com/about/)
 - [High Tide Recaps Key Milestones of 2025](https://hightideinc.com/high-tide-recaps-key-milestones-of-2025/)
 - [High Tide Q4 and FY2025 Results](https://hightideinc.com/high-tide-reports-fourth-quarter-and-2025-year-end-financial-results-featuring-record-revenue-and-adjusted-ebitda/)
+- [High Tide Q1 FY2026 Results](https://www.prnewswire.com/news-releases/high-tide-reports-first-quarter-2026-financial-results-featuring-record-revenue-exceeding-700-million-annualized-302716464.html)
 - [NASDAQ Approves High Tide Application](https://www.prnewswire.com/news-releases/nasdaq-approves-high-tides-application-to-list-301301434.html)
 - [High Tide Switches to Discount Club Model](https://hightideinc.com/high-tide-switches-to-discount-club-model/)
 - [High Tide Completes Meta Growth Acquisition](https://www.newswire.ca/news-releases/high-tide-completes-acquisition-of-meta-growth-885324575.html)

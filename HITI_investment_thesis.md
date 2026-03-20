@@ -1,24 +1,24 @@
 # High Tide Inc. (NASDAQ: HITI) — Investment Thesis
 
-*March 2026 | Based on FY2025 audited financials (year ended October 31, 2025) and bottom-up financial model*
+*March 21, 2026 | Updated post-Q1 FY2026 results (quarter ended January 31, 2026)*
 
 ---
 
 ## Executive Summary
 
-High Tide Inc. is the largest non-franchised cannabis retailer in Canada, operating 218 Canna Cabana stores across five provinces, supplemented by a global e-commerce platform (Grasscity, Smoke Cartel, Daily High Club) and a nascent but strategically significant medical cannabis distribution business in Germany (Remexian). The company has grown revenue from C$181M (FY2021) to C$594M (FY2025) through a combination of organic store openings, a disruptive discount club model (Cabana Club, 2.5M Canadian members), and disciplined M&A. Despite operating in a sector plagued by capital destruction, High Tide has delivered 22 consecutive quarters of positive Adjusted EBITDA and consistent positive free cash flow.
+High Tide Inc. is the largest non-franchised cannabis retailer in Canada, operating 218 Canna Cabana stores across five provinces, supplemented by a global e-commerce platform (Grasscity, Smoke Cartel, Daily High Club) and a strategically significant medical cannabis distribution business in Germany (Remexian). The company has grown revenue from C$181M (FY2021) to C$594M (FY2025) through a combination of organic store openings, a disruptive discount club model (Cabana Club, 2.58M Canadian members), and disciplined M&A. Q1 FY2026 delivered record revenue of C$178.3M (annualized ~C$713M), with Remexian contributing C$25M in its first full quarter of consolidation. Despite operating in a sector plagued by capital destruction, High Tide has delivered 22 consecutive quarters of positive Adjusted EBITDA and consistent positive free cash flow.
 
-The stock currently trades at US$2.48 on NASDAQ (approximately C$3.37 at ~1.36 USD/CAD), implying a market cap of ~C$294M and an enterprise value of ~C$325M. This prices the company at 0.55x EV/Revenue and 8.5x EV/Adj. EBITDA — a significant discount that fails to reflect the transformative impact of the Remexian acquisition, which adds an annualized ~C$105M in consolidated revenue at higher margins than the Canadian retail business.
+The stock currently trades at US$2.24 on NASDAQ (approximately C$3.05 at ~1.36 USD/CAD, as of March 21, 2026), implying a market cap of ~C$268M and an enterprise value of ~C$298M. This prices the company at 0.42x EV/Revenue (on annualized Q1 run-rate) and 7.8x EV/Adj. EBITDA — a significant discount reflecting cannabis sector pessimism and small-cap illiquidity, and one that understates the company's value once the model's intentionally conservative assumptions are understood.
 
-Our bottom-up model, anchored in store-count growth, revenue per store, same-store sales momentum, and margin expansion, yields the following DCF-implied share prices (C$, diluted):
+Importantly, the model only reflects operations in Canada and Germany — the company's two existing geographies — and is intentionally conservative even with respect to those markets, using below-consensus same-store sales growth (1.0% base) and gradual margin assumptions. Our 10-year bottom-up sub-segment margin DCF, anchored in store-count growth, revenue per store, same-store sales momentum, seven distinct sub-segment gross margins, and a Remexian 49% buyout in FY2028, yields the following DCF-implied share prices at 12% WACC (C$, diluted):
 
-| Scenario | Implied Price | FY2030E Revenue | FY2030E Adj EBITDA | Rev CAGR (25-30) |
-|----------|--------------|----------------|-------------------|-----------------|
-| **Bull** | **C$12.94** | C$1,190M | C$207M | 14.9% |
-| **Base** | **C$7.17** | C$968M | C$124M | 10.3% |
-| **Bear** | **C$2.14** | C$750M | C$54M | 4.8% |
+| Scenario | Implied Price | FY2030E Revenue | FY2035E Revenue | FY2035E EBITDA Margin | Rev CAGR (25-35) |
+|----------|--------------|----------------|----------------|----------------------|-----------------|
+| **Bull** | **C$7.34** | C$1,154M | C$1,378M | 12.2% | ~8.8% |
+| **Base** | **C$5.39** | C$1,026M | C$1,143M | 11.2% | ~6.8% |
+| **Bear** | **C$3.78** | C$871M | C$888M | 10.3% | ~4.1% |
 
-The thesis rests on three pillars: (1) continued store-count growth in a fragmented Canadian market where Canna Cabana holds only 12% share, (2) the Cabana Club discount model driving industry-leading same-store sales growth and customer loyalty, and (3) the Remexian acquisition transforming HITI into a significant European medical cannabis distributor, with US entry as additional optionality. The Base case implies ~113% upside from the current CAD-equivalent price (~C$3.37), while the Bull case offers ~284% upside. The Bear case implies ~37% downside.
+The base case of C$5.39 implies approximately 77% upside from the current C$3.05 (US$2.24 as of March 21, 2026). The Bull case at C$7.34 implies ~141% upside. Even the Bear case at C$3.78 implies ~24% upside. The model covers only Canada and Germany, entirely excluding UK/Poland/France expansion, and uses conservative margin and same-store sales growth assumptions. The 10-year structure reduces terminal value dependency to ~59% of enterprise value (vs. ~74% in a typical 5-year model), meaning more than 40% of the valuation is backed by explicit year-by-year FCF projections. Germany execution has been validated by strong Q1 results (C$25M revenue, February record of C$12M), and the Remexian 49% buyout in FY2028 eliminates the NCI drag, significantly boosting equity FCF from FY2029 onward.
 
 ---
 
@@ -39,11 +39,11 @@ The thesis rests on three pillars: (1) continued store-count growth in a fragmen
 | Adjusted EBITDA | C$38.2M |
 | Net Income (GAAP) | (C$51.4M) |
 | Free Cash Flow | C$12.0M |
-| Cabana Club Members (Canada) | 2.50M |
-| ELITE Members (Canada) | 151K |
+| Cabana Club Members (Canada) | 2.58M |
+| ELITE Members (Canada) | 162K |
 | Market Share (5 provinces) | 12% |
 | Revenue per Store (annualized) | ~C$2.7M |
-| Same-Store Sales Growth | +4.1% |
+| Same-Store Sales Growth | +4.1% (FY2025); +0.5% Q1 FY2026 (weather-impacted) |
 
 ---
 
@@ -57,7 +57,7 @@ High Tide's Cabana Club is not merely a loyalty program — it is a strategic we
 - Same-store sales have grown >130% since the model launched, vs. industry-wide declines
 - 90%+ of in-store sales come from Cabana Club members, creating sticky, repeat-purchase behavior
 
-The 2.5 million Canadian Cabana Club members (plus 151K paid ELITE members) represent a data asset and a barrier to competitive entry. ELITE members pay a subscription fee and receive deeper discounts — a direct analogue to Costco's membership model.
+The 2.58 million Canadian Cabana Club members (plus 162K paid ELITE members) represent a data asset and a barrier to competitive entry. ELITE members pay a subscription fee and receive deeper discounts — a direct analogue to Costco's membership model.
 
 ### 2. GAAP Net Income Is Distorted by Non-Cash Charges
 
@@ -76,27 +76,27 @@ Canada has approximately 3,500+ licensed cannabis retail stores across all provi
 
 Scale advantages compound: better purchasing terms from LPs, Cabanalytics data leverage, brand recognition, and the ability to spread fixed costs (technology, corporate overhead) across a larger store base. As weaker operators exit — a process accelerated by price competition and regulatory burdens — HITI is positioned to absorb market share both organically and via opportunistic acquisition.
 
-### 4. E-Commerce Is a Drag — but a Manageable One
+### 4. E-Commerce Is a Drag — but Shows Signs of Stabilization
 
-The e-commerce segment (Grasscity.com, Smoke Cartel, Daily High Club, Dankstop) contributes only ~2-3% of revenue and has been the source of non-cash impairments. Management has acknowledged the segment's underperformance and is evaluating strategic options.
+The e-commerce segment (Grasscity.com, Smoke Cartel, Daily High Club, Dankstop) contributes only ~2-3% of revenue and has been the source of non-cash impairments. Management has acknowledged the segment's underperformance and is evaluating strategic options, with CEO Raj Grover exploring "strategic options including potential transactions."
 
-The risk of a write-down has already materialized. What remains is optionality: the Grasscity brand has global recognition in the accessories space, and a potential divestiture could monetize the asset while removing a margin drag. Investors should not assign significant value to this segment but should recognize that the downside is largely baked in.
+However, there are early signs of a potential rebound. Platform relaunches have shown conversion rates up 30-50% and orders up 30%, and Q1 FY2026 marked the first sequential revenue increase in 2 years. E-commerce could also become meaningful for CBD sales in the US if regulatory clarity improves following the rescheduling executive order. The risk of a write-down has already materialized. What remains is optionality: the Grasscity brand has global recognition in the accessories space, and a potential divestiture or revitalization could monetize the asset while removing (or reversing) a margin drag.
 
 ### 5. Cabanalytics Is a Hidden High-Margin Asset
 
-High Tide's Cabanalytics platform monetizes the purchasing data generated by 2.5 million Cabana Club members. Licensed producers (LPs) and brands pay subscription fees for anonymized consumer insights — purchase patterns, brand preferences, regional trends — that help them forecast demand and allocate marketing spend.
+High Tide's Cabanalytics platform monetizes the purchasing data generated by 2.58 million Cabana Club members. Licensed producers (LPs) and brands pay subscription fees for anonymized consumer insights — purchase patterns, brand preferences, regional trends — that help them forecast demand and allocate marketing spend.
 
-In FY2025, data/advertising/other revenue reached C$47.7M (Q4 alone was C$13.1M, +20% YoY). This segment operates at significantly higher margins than retail and is growing faster. It comprises three distinct sub-segments: Cabanalytics/advertising (C$15M at ~65% gross margin), ELITE membership fees (C$5M at ~85% gross margin from 151K paid members), and other income (C$28M). As the member base expands and advertising capabilities mature, this segment is a key driver of blended margin improvement.
+In FY2025, data/advertising/other revenue reached C$47.7M (Q4 alone was C$13.1M, +20% YoY). This segment operates at significantly higher margins than retail and is growing faster. It comprises three distinct sub-segments: Cabanalytics/advertising (C$15M at ~65% gross margin), ELITE membership fees (C$5M at ~85% gross margin from 162K paid members), and other income (C$28M). As the member base expands and advertising capabilities mature, this segment is a key driver of blended margin improvement.
 
-### 6. Germany (Remexian) Is Real Optionality
+### 6. Germany (Remexian) — Q1 FY2026 Validates the Thesis
 
-In September 2025, HITI acquired a 51% stake in Remexian Pharma for EUR 26.4M, making High Tide one of the largest importers and distributors of medical cannabis in Germany (population 83M). This is not optionality — it is a material, revenue-generating business that transforms HITI's financial profile.
+In September 2025, HITI acquired a 51% stake in Remexian Pharma for EUR 26.4M, making High Tide one of the largest importers and distributors of medical cannabis in Germany (population 83M). This is not optionality — it is a material, revenue-generating business that transforms HITI's financial profile, and Q1 FY2026 results have now validated this.
 
-**Scale and run-rate.** Remexian's pre-acquisition annualized revenue was EUR 70M (~C$105M) with a standalone EBITDA margin of ~21% (EUR 15M EBITDA). In December 2025, Remexian distributed 2.6 tonnes at near-record monthly volume. Germany's total medical cannabis imports surged from 73 tonnes (2024) to 201 tonnes (2025) — nearly 3x growth — and Remexian captured ~16% market share. The market is projected to grow toward 600 tonnes annually.
+**Q1 FY2026 actuals.** Remexian delivered C$25M in revenue in its first full quarter of consolidation (November 2025 - January 2026). February 2026 set a record month of C$12M (EUR 7.5M) with 2.6 tonnes distributed, representing 10.3% market share (up from 6.5% pre-acquisition). German medical cannabis imports surged from 73 tonnes (2024) to 201 tonnes (2025) — nearly 3x growth — and the market is projected to grow toward 600 tonnes annually. Gross margins were approximately 20% in Q1, below the 30% initially assumed for Germany, reflecting early-stage supply chain dynamics; we model normalization to 22% (base case) by Q3 as Canadian biomass arrives at best-in-class procurement terms. Management appropriately cautions that "one month should not be viewed as a new baseline" — March was softer than February.
 
-**Near-term disruption, normalizing.** Volume was temporarily depressed in September-November 2025 due to a Portugal supply chain bottleneck (regulatory processing delays, not demand weakness). Management indicated Q1 FY2026 still reflects this pressure, with normalization expected by mid-FY2026 as Malta, Czech Republic, and German domestic supply routes come online. HITI has secured biomass at 30-40% lower cost than Remexian previously paid, which should improve margins once supply normalizes.
+**Supply chain normalization underway.** Volume was temporarily depressed in September-November 2025 due to a Portugal supply chain bottleneck (regulatory processing delays, not demand weakness). HITI has secured Canadian biomass at 30-40% lower cost than Remexian previously paid, which should improve margins as these supply routes ramp through FY2026.
 
-**Consolidation treatment.** HITI consolidates 100% of Remexian's revenue (as controlling shareholder), with a 49% non-controlling interest deducted in the equity bridge. The minority interest is also subject to a call/put option: HITI can acquire the remaining 49% after September 2027 at 3.64-4.0x trailing EBITDA (minimum floor EUR 15M).
+**Consolidation treatment.** HITI consolidates 100% of Remexian's revenue (as controlling shareholder), with the 49% non-controlling interest (NCI) deducted at the FCF level — 49% of Germany EBITDA is removed from free cash flow to equity. The minority interest is also subject to a call/put option: HITI can acquire the remaining 49% after September 2027 at 3.64-4.0x trailing EBITDA (minimum floor EUR 15M).
 
 In December 2025, HITI opened its first European Canna Cabana flagship in Berlin. Germany legalized recreational cannabis possession in April 2024, though commercial recreational retail pilots have not yet launched. Our model assigns substantial revenue from Germany's existing medical cannabis market and conservative growth, with recreational upside as additional optionality.
 
@@ -129,11 +129,11 @@ The EUR 26.4M Remexian acquisition added to the debt profile, but the company re
 
 ### 1. Store-Count Expansion in Canada
 
-HITI has guided for 20-30 new Canna Cabana locations in calendar 2026, with a long-term target of 350 stores. The company favors organic openings (which cost C$300-400K per store and reach profitability within 6-9 months) over acquisitions. Key growth provinces include Ontario (10% share, massive room for growth) and British Columbia.
+HITI has guided for 20-30 new Canna Cabana locations in calendar 2026, though management has indicated they are trending "toward the lower end" of this range, citing difficulty finding organic locations without cannibalization of existing stores. The long-term target remains ~350 stores. The company favors organic openings (which cost C$300-400K per store and reach profitability within 6-9 months) over acquisitions. Our model assumes 23-27 new stores per year, reaching ~346 stores by FY2030 (base case). Key growth provinces include Ontario (10% share, massive room for growth) and British Columbia.
 
 ### 2. Same-Store Sales Growth via Cabana Club
 
-With 12% market share and 2.5M members, the Cabana Club flywheel continues to drive traffic. ELITE membership (paid tier) grew 107% YoY in FY2025 and provides higher-margin recurring revenue plus deeper member engagement. As membership grows, same-store sales benefit from increased wallet share per member.
+With 12% market share and 2.58M members, the Cabana Club flywheel continues to drive traffic. ELITE membership (paid tier) grew 107% YoY in FY2025 and provides higher-margin recurring revenue plus deeper member engagement. As membership grows, same-store sales benefit from increased wallet share per member.
 
 ### 3. Cabanalytics and Advertising Revenue
 
@@ -145,7 +145,7 @@ HITI has been expanding its portfolio of proprietary cannabis brands sold exclus
 
 ### 5. International Expansion (Germany and Beyond)
 
-The Remexian platform provides distribution infrastructure for medical cannabis across Germany. The Berlin Canna Cabana flagship tests the retail concept in Europe. Expansion into adjacent markets (Netherlands, Czech Republic) is possible as regulatory frameworks evolve.
+The Remexian platform provides distribution infrastructure for medical cannabis across Germany. The Berlin Canna Cabana flagship tests the retail concept in Europe. UK entry is planned within the next ~12 months via M&A — this is NOT reflected in the financial model. Poland and France are later-stage targets for expansion and are also NOT reflected in the model. Adjacent markets (Netherlands, Czech Republic) remain possible as regulatory frameworks evolve.
 
 ### 6. US Market Entry
 
@@ -157,57 +157,63 @@ Depending on federal regulatory developments, HITI could deploy its proven retai
 
 ### Bull Case: Accelerated Store Growth, Strong Same-Store Sales, Germany Scales
 
-**Assumptions:** 30+ new stores/year (reaching 360 by 2030), same-store sales growth averaging 5%+, white-label penetration reaching 20% of retail revenue, Cabanalytics/ads scaling to C$70M, ELITE membership reaching 500K+ members, Germany revenue reaching C$200M by 2030 (Remexian volume growth + recreational framework upside). The bottom-up sub-segment margin model drives gross margin to 31.5% and EBITDA margin to 17.4% by 2030.
+**Assumptions:** 28-30 new stores/year (reaching ~356 by 2030), same-store sales growth of 2.5% fading to 1.5%, Germany revenue reaching C$120M-215M, Germany gross margins at 24%, sub-segment gross margins driving blended GM from 25.6% (2026) to ~27%+ (2030) and higher through Phase 2. EBITDA margin expands to 9.2% by FY2030 and ~12%+ by FY2035. Remexian 49% buyout at 4x trailing EBITDA (C$79.2M) in FY2028; NCI = 0 from FY2029. White-label reaches 20%, ELITE reaches 1M members by FY2035.
 
-**Narrative:** Canadian cannabis market matures with weaker operators exiting, leaving HITI as the dominant consolidator. Cabana Club reaches 4M+ Canadian members. White-label penetration accelerates as HITI leverages purchasing data to optimize its proprietary brand portfolio. Cabanalytics becomes a material profit center. Germany's recreational framework accelerates and Remexian captures growing market share in a rapidly expanding medical market.
+**Narrative:** Canadian cannabis market matures with weaker operators exiting, leaving HITI as the dominant consolidator. Cabana Club reaches 4M+ Canadian members. Germany's medical market continues to expand and Remexian captures growing market share — fully owned from FY2029 after the buyout. White-label penetration, Cabanalytics scaling, and ELITE membership growth drive sustained margin expansion through the 10-year projection period.
 
-| Metric | FY2026E | FY2028E | FY2030E |
-|--------|---------|---------|---------|
-| Stores | 250 | 310 | 360 |
-| Revenue | C$787M | C$1,040M | C$1,190M |
-| — of which Germany | C$100M | C$155M | C$200M |
-| Gross Margin | 27.5% | 29.5% | 31.5% |
-| Adj EBITDA | C$83M | C$139M | C$207M |
-| EBITDA Margin | 10.5% | 13.4% | 17.4% |
-| FCF | C$57M | C$108M | C$171M |
+| Metric | FY2026E | FY2030E | FY2035E (Terminal) |
+|--------|---------|---------|-------------------|
+| Stores | 245 | 356 | — |
+| Revenue | C$794M | C$1,154M | C$1,370M |
+| — of which Germany | C$120M | C$215M | — |
+| Gross Margin | 25.6% | ~27% | ~29%+ |
+| EBITDA | C$51M | C$107M | ~C$161M |
+| EBITDA Margin | 6.4% | 9.2% | ~12%+ |
+| FCF (Equity) | — | C$74M | C$123M |
 
-**DCF Implied Price: C$12.94** (diluted)
+*FY2028 FCF impacted by Remexian 49% buyout (C$79.2M at 4x EBITDA). NCI = 0 from FY2029 onward (100% ownership).*
+
+**DCF Implied Price: C$7.34** (diluted, 12% WACC, TV 60.3% of EV)
 
 ### Base Case: Steady Execution
 
-**Assumptions:** 20-25 new stores/year (reaching 320 by 2030), same-store sales growth of 3-4%, white-label penetration reaching 12% of retail revenue, Cabanalytics/ads growing to C$40M, ELITE membership reaching 350K, Germany revenue reaching C$115M by 2030 (steady medical market growth, Remexian maintains ~21% standalone EBITDA margin). The bottom-up sub-segment margin model drives gross margin to 28.9% and EBITDA margin to 12.8% by 2030.
+**Assumptions:** 23-27 new stores/year (reaching ~346 by 2030), same-store sales growth of 1.0%, Germany revenue reaching C$105M-155M, Germany gross margins at 22%, seven sub-segment gross margins modeled independently (see Bottom-Up Sub-Segment Margin Model). EBITDA margin expands from 5.9% (2026) to 8.4% (2030) through Phase 1, then to 11.2% by FY2035 (terminal) through white-label ramp, ELITE growth, and OpEx leverage. Remexian 49% buyout at 4x trailing EBITDA (C$56.0M) in FY2028; NCI = 0 from FY2029.
 
-**Narrative:** HITI continues its proven Canadian playbook. Market growth slows to low-single-digits but HITI gains share. Cabana Club membership grows to 3.5M. White-label and Cabanalytics contribute incremental margin improvement. Remexian normalizes from supply disruptions and grows with the German medical cannabis market. E-commerce segment stabilized or divested.
+**Narrative:** HITI continues its proven Canadian playbook. Market growth slows to low-single-digits but HITI gains share. Cabana Club membership grows to 3.5M. Remexian normalizes from supply disruptions and grows with the German medical cannabis market — fully owned from FY2029 after the buyout. White-label penetration ramps from ~1.4% to 20% of retail revenue, ELITE grows from 162K to 1M members, and Cabanalytics scales with the member base. These high-margin mix shifts, combined with OpEx moderation (18% to 17%), drive the EBITDA margin from 5.9% to 11.2% over the 10-year horizon.
 
-| Metric | FY2026E | FY2028E | FY2030E |
-|--------|---------|---------|---------|
-| Stores | 242 | 280 | 320 |
-| Revenue | C$727M | C$857M | C$968M |
-| — of which Germany | C$80M | C$105M | C$115M |
-| Gross Margin | 26.6% | 27.8% | 28.9% |
-| Adj EBITDA | C$69M | C$97M | C$124M |
-| EBITDA Margin | 9.5% | 11.3% | 12.8% |
-| FCF | C$47M | C$71M | C$95M |
+| Metric | FY2026E | FY2030E | FY2035E (Terminal) |
+|--------|---------|---------|-------------------|
+| Stores | 241 | 346 | — |
+| Revenue | C$762M | C$1,026M | C$1,143M |
+| — of which Germany | C$105M | C$155M | ~C$200M |
+| Gross Margin | 25.4% | 26.4% | 28.2% |
+| EBITDA | C$45M | C$86M | C$128M |
+| EBITDA Margin | 5.9% | 8.4% | 11.2% |
+| FCF (Equity) | C$16M | C$56M | C$96M |
 
-**DCF Implied Price: C$7.17** (diluted)
+*FY2028 FCF impacted by Remexian 49% buyout (C$56.0M at 4x EBITDA). NCI = 0 from FY2029 onward (100% ownership). White-label at 20%, ELITE at 1M members, Germany EBITDA at C$30M (100% owned) by FY2035.*
+
+**DCF Implied Price: C$5.39** (diluted, 12% WACC, TV 59.4% of EV)
 
 ### Bear Case: Market Headwinds, Margin Pressure
 
-**Assumptions:** 10-15 new stores/year (reaching 270 by 2030), same-store sales flat to slightly negative, white-label penetration stalling at 3%, Cabanalytics growth limited, gross margin flat at 25.5% as competitive pressure offsets mix improvement, Germany revenue stagnating around C$58M (competitive pressure, no recreational catalyst), Remexian EBITDA margin compressed to 10%, e-commerce losses persist.
+**Assumptions:** 18-22 new stores/year (reaching ~320 by 2030), same-store sales flat (0%) to slightly negative (-1%), Germany revenue stagnating at C$85M-105M, Germany gross margins at 20%, sub-segment margins compressed. EBITDA margin reaches only 7.5% by FY2030 and ~10%+ by FY2035. Remexian 49% buyout at 4x trailing EBITDA (C$32.0M) in FY2028. Competitive pressure from new entrants in the German import/distribution market.
 
-**Narrative:** Canadian cannabis market enters a deflationary phase as oversupply persists. Regulatory restrictions limit store openings in Ontario. Price wars erode margins. White-label adoption is slower than expected. Germany's recreational rollout stalls and Remexian faces competitive pressure from new entrants in the import/distribution market. HITI remains FCF positive but growth decelerates sharply.
+**Narrative:** Canadian cannabis market enters a deflationary phase as oversupply persists. Regulatory restrictions limit store openings in Ontario. Price wars erode margins. Germany's recreational rollout stalls and Remexian faces competitive pressure from new entrants in the import/distribution market. E-commerce losses persist. HITI remains FCF positive but growth decelerates sharply. Even in this scenario, the Remexian buyout proceeds, eliminating NCI from FY2029.
 
-| Metric | FY2026E | FY2028E | FY2030E |
-|--------|---------|---------|---------|
-| Stores | 233 | 250 | 270 |
-| Revenue | C$660M | C$710M | C$750M |
-| — of which Germany | C$60M | C$63M | C$58M |
-| Gross Margin | 25.5% | 25.5% | 25.5% |
-| Adj EBITDA | C$36M | C$44M | C$54M |
-| EBITDA Margin | 5.5% | 6.2% | 7.2% |
-| FCF | C$17M | C$23M | C$32M |
+| Metric | FY2026E | FY2030E | FY2035E (Terminal) |
+|--------|---------|---------|-------------------|
+| Stores | 238 | 320 | — |
+| Revenue | C$691M | C$871M | C$897M |
+| — of which Germany | C$85M | C$105M | — |
+| Gross Margin | ~25% | ~26% | ~27% |
+| EBITDA | C$41M | C$66M | ~C$99M |
+| EBITDA Margin | ~5.9% | 7.5% | ~10%+ |
+| FCF (Equity) | — | C$41M | C$74M |
 
-**DCF Implied Price: C$2.14** (diluted)
+*FY2028 FCF impacted by Remexian 49% buyout (C$32.0M at 4x EBITDA). NCI = 0 from FY2029 onward (100% ownership).*
+
+**DCF Implied Price: C$3.78** (diluted, 12% WACC, TV 56.0% of EV)
 
 ---
 
@@ -215,60 +221,80 @@ Depending on federal regulatory developments, HITI could deploy its proven retai
 
 ### Approach
 
-We use a 5-year Discounted Cash Flow with a Gordon Growth terminal value. Key parameters:
+We use a 10-year two-phase Discounted Cash Flow with a Gordon Growth terminal value on year-10 FCF. Key parameters:
 
 | Parameter | Value | Rationale |
 |-----------|-------|-----------|
-| WACC | 12.0% | CAPM: 4.3% risk-free + 1.01 beta x 5.5% ERP + ~2% small-cap/cannabis premium. Comparable to Tilray (8.5%) and SNDL (7.6%) with appropriate risk adjustment for small-cap cannabis. |
+| WACC | 12.0% | CAPM: 4.3% risk-free + 1.01 beta x 5.5% ERP + 2% cannabis/small-cap premium = ~11.9% (rounded to 12%) |
 | Terminal Growth | 2.5% | Below nominal GDP; reflects maturing Canadian cannabis market with limited secular tailwinds |
-| FCF Definition | Adj EBITDA - Cash Taxes - Capex - Lease Payments | Captures true cash generation including lease obligations |
+| FCF Definition | EBITDA - D&A + D&A - Capex - NCI - Taxes - Finance Costs | FCF to equity after NCI deduction (49% of Germany EBITDA, 2026-2028 only) |
 
-### Base Case FCF Projections (C$M)
+**Two-phase structure:**
+- **Phase 1 (2026-2030):** Detailed bottom-up sub-segment model with store-level revenue build, seven sub-segment gross margins, NCI deduction (2026-2028), and Remexian 49% buyout in FY2028. Revenue built from store count x revenue per store + Germany + e-commerce + Cabanalytics + ELITE.
+- **Phase 2 (2031-2035):** Simplified fade toward terminal operating state — white-label penetration reaches 20% of retail revenue, ELITE reaches 1M members, Germany EBITDA reaches C$30M (100% owned), OpEx moderates from 18% to 17% of revenue. Revenue growth decelerates to ~2% as the model approaches terminal state.
+- **Terminal value:** Gordon Growth applied to year-10 (FY2035) FCF.
 
-| Year | Adj EBITDA | Capex | Lease Pmts | FCF |
-|------|-----------|-------|-----------|-----|
-| 2026 | $69 | -$8 | -$14 | $47 |
-| 2027 | $82 | -$9 | -$15 | $58 |
-| 2028 | $97 | -$9 | -$16 | $71 |
-| 2029 | $110 | -$10 | -$17 | $83 |
-| 2030 | $124 | -$11 | -$18 | $95 |
+### Remexian Buyout (FY2028)
 
-Note: EBITDA includes 100% of Remexian (consolidated). Germany contributes ~C$17-24M in annual EBITDA at a ~21% standalone margin. Terminal value accounts for ~70% of enterprise value. Cash taxes are minimal due to accumulated NOL carryforwards. The higher EBITDA relative to previous flat-margin estimates reflects the bottom-up sub-segment margin model, which captures the mix shift toward higher-margin white-label, Cabanalytics, and ELITE membership revenue.
+HITI exercises its call option for the remaining 49% of Remexian at 4x trailing EBITDA. The buyout cost varies by scenario: Bull C$79.2M, Base C$56.0M, Bear C$32.0M. This is treated as a one-time cash outflow in FY2028, reducing that year's FCF to equity. From FY2029 onward, Germany is 100% owned — all Germany FCF flows to HITI with no NCI deduction, significantly boosting equity FCF in the remaining projection years.
+
+### Base Case Phase 1 Projected Financials (C$K) — Detailed
+
+| Year | Revenue | Gross Profit | GM% | EBITDA | EBITDA% | NCI | FCF (Equity) | Stores |
+|------|---------|-------------|-----|--------|---------|-----|-------------|--------|
+| 2026 | 761,650 | 193,148 | 25.4% | 44,627 | 5.9% | 4,116 | 16,138 | 241 |
+| 2027 | 832,197 | 213,906 | 25.7% | 54,124 | 6.5% | 6,125 | 22,201 | 266 |
+| 2028 | 901,649 | 233,645 | 25.9% | 64,135 | 7.1% | 6,860 | -26,676* | 293 |
+| 2029 | 966,832 | 252,624 | 26.1% | 73,760 | 7.6% | 0** | 45,722 | 320 |
+| 2030 | 1,026,140 | 270,438 | 26.4% | 85,733 | 8.4% | 0 | 55,975 | 346 |
+
+*\*FY2028 FCF includes Remexian 49% buyout cost of C$56.0M (4x trailing EBITDA of C$14M).*
+*\*\*NCI = 0 from FY2029 onward — Germany is 100% owned post-buyout.*
+
+### Base Case Phase 2 Projected Financials (C$K) — Fade to Terminal
+
+| Year | Revenue | GM% | EBITDA | EBITDA% | FCF (Equity) | WL% | ELITE (K) |
+|------|---------|-----|--------|---------|-------------|-----|-----------|
+| 2031 | 1,047,844 | 26.7% | 93,655 | 8.9% | 63,478 | 8.8% | 600 |
+| 2032 | 1,070,319 | 27.1% | 101,861 | 9.5% | 71,250 | 11.6% | 700 |
+| 2033 | 1,093,620 | 27.5% | 110,372 | 10.1% | 79,313 | 14.4% | 800 |
+| 2034 | 1,117,806 | 27.9% | 119,212 | 10.7% | 87,690 | 17.2% | 900 |
+| 2035 | 1,142,939 | 28.2% | 128,409 | 11.2% | 96,407 | 20.0% | 1,000 |
+
+Note: Phase 2 models the fade toward terminal operating state. White-label (WL%) ramps from ~6% to 20% of retail revenue. ELITE membership grows from ~500K to 1M. Germany EBITDA reaches ~C$30M (100% owned). OpEx moderates from 18% to 17% of revenue. Revenue growth decelerates from ~2.1% to ~2.2% as the model approaches terminal state.
 
 ### Enterprise Value Bridge (Base Case)
 
-| Component | C$M |
+| Component | C$K |
 |-----------|-----|
-| PV of FCFs (2026-2030) | ~$246 |
-| PV of Terminal Value | ~$583 |
-| **Enterprise Value** | **~$829** |
-| - Net Debt | ($31) |
-| - Minority Interest (Remexian 49%)* | ($103) |
-| **Equity Value** | **~$696** |
-| Diluted shares (M) | ~97M |
-| **Implied price** | **C$7.17** |
+| PV of FCFs (2026-2035) | 235,025 |
+| PV of Terminal Value | 344,535 |
+| **Enterprise Value** | **579,560** |
+| - Net Debt | (30,500) |
+| **Equity Value** | **549,060** |
+| Diluted shares (M) | 101.9M |
+| **Implied price** | **C$5.39** |
+| TV as % of EV | 59.4% |
 
-*Minority interest valued at 49% of the present value of Remexian's standalone FCF stream, reflecting the controlling shareholder's obligation to the 49% non-controlling interest. This is substantially higher than the C$13M book value because the DCF captures Remexian's full going-concern value at a ~21% EBITDA margin on C$80-115M in Germany revenue.
-
-### Price Sensitivity (WACC vs. Terminal Growth)
+### Price Sensitivity (WACC vs. Terminal Growth, Base Case)
 
 |  | TG 1.5% | TG 2.0% | TG 2.5% | TG 3.0% | TG 3.5% |
 |------|---------|---------|---------|---------|---------|
-| **WACC 9%** | C$9.68 | C$10.26 | C$10.94 | C$11.72 | C$12.64 |
-| **WACC 10%** | C$8.42 | C$8.85 | C$9.34 | C$9.90 | C$10.55 |
-| **WACC 11%** | C$7.43 | C$7.76 | C$8.13 | C$8.55 | C$9.02 |
-| **WACC 12%** | C$6.62 | C$6.89 | **C$7.17** | C$7.49 | C$7.85 |
-| **WACC 13%** | C$5.96 | C$6.17 | C$6.40 | C$6.66 | C$6.93 |
-| **WACC 14%** | C$5.41 | C$5.58 | C$5.77 | C$5.97 | C$6.19 |
-| **WACC 15%** | C$4.94 | C$5.08 | C$5.23 | C$5.40 | C$5.58 |
+| **WACC 9%** | C$7.85 | C$8.26 | C$8.74 | C$9.30 | C$9.96 |
+| **WACC 10%** | C$6.63 | C$6.93 | C$7.26 | C$7.64 | C$8.09 |
+| **WACC 11%** | C$5.69 | C$5.90 | C$6.14 | C$6.42 | C$6.72 |
+| **WACC 12%** | C$4.93 | C$5.09 | **C$5.27** | C$5.47 | C$5.70 |
+| **WACC 13%** | C$4.32 | C$4.44 | C$4.58 | C$4.73 | C$4.89 |
+| **WACC 14%** | C$3.81 | C$3.91 | C$4.01 | C$4.13 | C$4.25 |
+| **WACC 15%** | C$3.38 | C$3.46 | C$3.54 | C$3.63 | C$3.73 |
 
-The valuation is constructive across the entire sensitivity range. At the base-case WACC of 12% and terminal growth of 2.5%, the implied price is C$7.17 — approximately 113% above the current C$3.37 CAD-equivalent price (US$2.48). Even at a conservative 15% WACC and 1.5% terminal growth, the implied price of C$4.94 represents ~47% upside. At lower WACCs (9-10%) — consistent with Tilray and SNDL's calculated WACCs — the implied price ranges from C$8.42 to C$12.64. The entire sensitivity grid is above the current stock price, reflecting the significant undervaluation implied by the bottom-up margin model.
+The DCF yields C$5.39 at the CAPM-derived WACC of ~11.9%. The sensitivity table, which evaluates at rounded WACC increments, shows C$5.27 at 12% WACC / 2.5% terminal growth and C$7.26 at 10% WACC / 2.5% TG. The entire sensitivity grid is above the current stock price of ~C$3.05 (US$2.24) — even at 15% WACC and 1.5% terminal growth, the implied price is C$3.38. The range across plausible assumptions (10-13% WACC, 2.0-3.0% TG) spans C$4.44 to C$7.64, with the base case at C$5.27-5.39 depending on exact WACC rounding. The 10-year structure reduces terminal value dependency to ~59% (vs. ~74% in a 5-year model), meaning more than 40% of the valuation is backed by explicit FCF projections. Importantly, the model excludes UK/Poland/France expansion, e-commerce rebound, and any US optionality — all of which would increase FCF projections.
 
 ---
 
 ## Bottom-Up Sub-Segment Margin Model
 
-A key differentiator of this analysis is the explicit modeling of HITI's revenue sub-segments, each with distinct gross margin profiles. Rather than applying a flat gross margin assumption to total revenue, we decompose revenue into seven sub-segments and model each independently. This approach captures the margin expansion driven by the growing mix of high-margin revenue streams.
+A key feature of this analysis is the explicit bottom-up modeling of HITI's revenue sub-segments, each with distinct gross margin profiles. Rather than applying a flat gross margin assumption to total revenue, we decompose revenue into seven sub-segments and model each independently. This approach captures the margin expansion driven by the growing mix of high-margin revenue streams — an effect that is invisible in a blended-margin model.
 
 ### FY2025 Calibration (Actual)
 
@@ -280,67 +306,69 @@ A key differentiator of this analysis is the explicit modeling of HITI's revenue
 | Cabanalytics / Ads | $15.0 | 2.5% | 65.0% | $9.8 |
 | Other Income | $27.7 | 4.7% | -2.0% | ($0.6) |
 | E-Commerce | $14.0 | 2.4% | 32.1% | $4.5 |
-| Germany (Remexian) | $5.0 | 0.8% | 30.0% | $1.5 |
-| **Total** | **$594.0** | **100%** | **25.8%** | **$152.8** |
+| Germany (Remexian)* | $5.0 | 0.8% | ~20.0% | $1.0 |
+| **Total** | **$594.0** | **100%** | **25.8%** | **$152.4** |
 
-*The bottom-up GP of C$152.8M calibrates within 0.5% of the reported C$153.5M, validating the sub-segment decomposition.*
+*Germany gross margin updated from 30% initially assumed to ~20% based on Q1 FY2026 actuals. The bottom-up GP of C$152.4M calibrates within 0.7% of the reported C$153.5M.*
 
-### Base Case Sub-Segment Projections (FY2030E)
+### Base Case Terminal State (FY2035E)
+
+The 10-year model projects the following approximate sub-segment breakdown at the terminal year (base case):
 
 | Sub-Segment | Revenue (C$M) | % of Total | Gross Margin | GP (C$M) |
 |-------------|--------------|-----------|-------------|---------|
-| Retail (3rd-party) | ~$630 | 65.1% | 25.2% | $159 |
-| White-Label | ~$86 | 8.9% | 31.5% | $27 |
-| ELITE Membership Fees | ~$12 | 1.2% | 85.0% | $10 |
-| Cabanalytics / Ads | ~$40 | 4.1% | 65.0% | $26 |
-| Other Income | ~$40 | 4.1% | 0% | $0 |
-| E-Commerce | ~$10 | 1.0% | 32.1% | $3 |
-| Germany (Remexian) | ~$115 | 11.9% | 30.0% | $35 |
-| **Total** | **~$968** | **100%** | **28.9%** | **~$280** |
+| Retail (3rd-party) | ~$680 | ~59% | 25.2% | ~$171 |
+| White-Label | ~$170 | ~15% | 31.5% | ~$54 |
+| ELITE Membership Fees | ~$33 | ~3% | 85.0% | ~$28 |
+| Cabanalytics / Ads | ~$43 | ~4% | 65.0% | ~$28 |
+| Other Income | ~$28 | ~2% | 0% | $0 |
+| E-Commerce | ~$14 | ~1% | 32.1% | ~$4.5 |
+| Germany (100% owned) | ~$200 | ~17% | 22.0% | ~$44 |
+| **Total** | **~$1,143** | **100%** | **28.2%** | **~$322** |
 
-### Margin Expansion Drivers
+The blended gross margin expands from 25.4% (FY2026) to 28.2% (FY2035) through three key mix shifts:
 
-The blended gross margin improves from 25.8% (FY2025) to 28.9% (FY2030E Base) through three mechanisms:
+1. **White-label penetration ramp (1.4% to 20%).** White-label products carry ~31.5% gross margin vs. 25.2% for third-party retail. Each 1pp of mix shift adds ~6bps to the blended margin. At 20% penetration, white-label contributes ~C$54M in gross profit — representing the single largest driver of margin expansion.
 
-1. **White-label penetration ramp.** White-label products carry ~31.5% gross margin vs. 25.2% for third-party retail. As penetration grows from 1.4% to 12% of retail revenue (Base), each 1pp of mix shift adds ~6bps to the blended margin. In the Bull case, penetration reaches 20%, contributing an additional ~120bps.
+2. **ELITE membership growth (162K to 1M).** At ~85% gross margin, ELITE fees are the highest-margin revenue stream. Growing from 162K to 1M members at ~C$33/year generates ~C$33M in near-pure-profit revenue, contributing ~C$28M in gross profit directly accretive to EBITDA.
 
-2. **Cabanalytics / advertising scaling.** At ~65% gross margin, each C$1M of incremental Cabanalytics revenue contributes ~2.5x more gross profit than C$1M of retail. Growing from C$15M to C$40M (Base) or C$70M (Bull) transforms this from a niche segment to a material profit contributor.
+3. **Cabanalytics / advertising scaling.** At ~65% gross margin, each C$1M of incremental Cabanalytics revenue contributes ~2.5x more gross profit than C$1M of retail. Growing from C$15M to ~C$43M transforms this into a material profit contributor.
 
-3. **ELITE membership growth.** At ~85% gross margin, ELITE fees are the highest-margin revenue stream. Growing from 151K members (FY2025) to 350K (Base) or 500K+ (Bull) at C$30-35/year per member generates C$10-18M in near-pure-profit revenue.
+Combined with OpEx moderation (18% to 17% of revenue), these mix shifts drive EBITDA margin expansion from 5.9% (FY2026) to 8.4% (FY2030) to 11.2% (FY2035).
 
-**Analyst comparison (FY2026E):** Our Base case revenue of C$727M and EBITDA of C$69M (9.5% margin) compare to BEACON Securities at C$769M revenue / C$56M EBITDA, ROTH Capital at C$698M / C$57M, and Haywood Securities at C$755M / C$65M. Our higher EBITDA reflects the explicit sub-segment margin model rather than a top-down margin assumption.
+**Analyst comparison (FY2026E):** Our Base case revenue of C$762M and EBITDA of C$45M (5.9% margin) compare to BEACON Securities at C$769M revenue / C$56M EBITDA, ROTH Capital at C$698M / C$57M, and Haywood Securities at C$755M / C$65M. Our lower EBITDA reflects the bottom-up sub-segment margin approach (which starts with actual FY2025 margins rather than applying an elevated blended rate) and higher finance costs from Remexian acquisition financing.
 
 ---
 
-## Exit Multiple Valuation (FY2030E)
+## Exit Multiple Valuation (FY2035E)
 
-As a cross-check to the DCF, we value HITI using exit multiples applied to FY2030E financials and discounted back to present value at 12% WACC.
+As a cross-check to the DCF, we value HITI using exit multiples applied to terminal-year (FY2035E) financials and discounted back 10 years to present value at 12% WACC.
 
-**FY2030E financials by scenario:**
+**FY2035E financials by scenario:**
 
 | Metric | Bull | Base | Bear |
 |--------|------|------|------|
-| Adj EBITDA | C$207M | C$124M | C$54M |
-| Net Income (adj.) | C$72M | C$44M | C$19M |
+| EBITDA | ~C$161M | ~C$128M | ~C$99M |
+| Net Income to HITI (est.) | ~C$81M | ~C$64M | ~C$50M |
 
-*Discount factor: 5 years at 12% WACC = 1.76x. All "PV Today" prices reflect the 2030 exit value discounted to present. EV/EBITDA prices deduct 49% minority interest in Remexian, valued at 0.49 × Remexian EBITDA × exit multiple.*
+*Discount factor: 10 years at 12% WACC = 3.11x. All "PV Today" prices reflect the 2035 exit value discounted to present. Germany is 100% owned from FY2029 onward (post-buyout), so no NCI deduction applies. Net income estimated at ~50% of EBITDA (after tax and finance costs). Diluted shares: ~102M.*
 
 ### 1. EV/EBITDA Exit Multiple
 
-Enterprise value = FY2030E Adj EBITDA x multiple, minus net debt, divided by ~94M diluted shares. Peer context: cannabis retailers trade at 5-10x EV/EBITDA; consumer retail generally at 8-12x.
+Enterprise value = FY2035E EBITDA x multiple, minus net debt, divided by ~102M diluted shares, discounted 10 years at 12%. Peer context: cannabis retailers trade at 5-10x EV/EBITDA; consumer retail generally at 8-12x.
 
 **Implied share price (present value) by scenario and exit multiple:**
 
 | EV/EBITDA | Bull | Base | Bear |
 |-----------|------|------|------|
-| **5x** | C$5.27 | C$3.10 | C$1.22 |
-| **7x** | C$7.45 | C$4.41 | C$1.79 |
-| **8x** | C$8.54 | C$5.07 | C$2.07 |
-| **10x** | C$10.72 | C$6.38 | C$2.63 |
-| **12x** | C$12.90 | C$7.69 | C$3.19 |
-| **15x** | C$16.18 | C$9.66 | C$4.03 |
+| **5x** | C$2.39 | C$1.87 | C$1.42 |
+| **7x** | C$3.43 | C$2.69 | C$2.06 |
+| **8x** | C$3.95 | C$3.10 | C$2.38 |
+| **10x** | C$4.99 | C$3.94 | C$3.02 |
+| **12x** | C$6.03 | C$4.77 | C$3.67 |
+| **15x** | C$7.59 | C$6.02 | C$4.63 |
 
-At 10x EV/EBITDA — a reasonable multiple for a profitable, growing cannabis retailer with data monetization and international distribution — the Base case implies C$6.38 today, ~89% above the current price.
+At 10x EV/EBITDA — a reasonable multiple for a profitable, growing cannabis retailer with data monetization and international distribution — the Base case implies C$3.94 today, ~17% above the current price.
 
 ### 2. P/E Exit Multiple
 
@@ -348,23 +376,23 @@ At 10x EV/EBITDA — a reasonable multiple for a profitable, growing cannabis re
 
 | P/E | Bull | Base | Bear |
 |-----|------|------|------|
-| **15x** | C$6.32 | C$3.86 | C$1.67 |
-| **20x** | C$8.42 | C$5.15 | C$2.22 |
-| **25x** | C$10.53 | C$6.43 | C$2.78 |
-| **30x** | C$12.64 | C$7.72 | C$3.33 |
-| **35x** | C$14.74 | C$9.01 | C$3.89 |
+| **15x** | C$3.91 | C$3.09 | C$2.41 |
+| **20x** | C$5.22 | C$4.12 | C$3.22 |
+| **25x** | C$6.52 | C$5.15 | C$4.02 |
+| **30x** | C$7.82 | C$6.18 | C$4.82 |
+| **35x** | C$9.13 | C$7.20 | C$5.63 |
 
-At 25x P/E — reasonable for a growing cannabis company with expanding profitability — the Base case implies C$6.43, ~91% above the current price.
+At 25x P/E — reasonable for a growing cannabis company with expanding profitability — the Base case implies C$5.15, ~53% above the current price.
 
 ### Triangulation Summary
 
 | Method | Bull | Base | Bear |
 |--------|------|------|------|
-| DCF (Gordon Growth) | C$12.94 | C$7.17 | C$2.14 |
-| EV/EBITDA exit at 10x | C$10.72 | C$6.38 | C$2.63 |
-| P/E exit at 25x | C$10.53 | C$6.43 | C$2.78 |
+| DCF (10-year, 12% WACC) | C$7.34 | C$5.39 | C$3.78 |
+| EV/EBITDA exit at 10x (FY2035, PV) | C$4.99 | C$3.94 | C$3.02 |
+| P/E exit at 25x (FY2035, PV) | C$6.52 | C$5.15 | C$4.02 |
 
-The three methodologies converge closely in the Base case around C$6.40-7.20, with the exit multiple approaches tightly clustered. The current CAD-equivalent stock price of ~C$3.37 (US$2.48 on NASDAQ) sits ~113% below the DCF Base case. Even the Bear case DCF (C$2.14) represents only ~37% downside, while the Bear EV/EBITDA at 10x (C$2.63) is only ~22% below current price. The Bull case across all methods centers around C$10.50-12.94, implying 210-284% upside. The significant uplift versus the prior flat-margin model reflects the explicit modeling of white-label, Cabanalytics, and ELITE membership margin contributions.
+The DCF produces the highest values because it captures explicit 10-year FCF projections including the full margin expansion trajectory, whereas the exit multiple approach applies a single multiple to terminal-year earnings and discounts back. The EV/EBITDA cross-check at 10x yields C$3.94 (base), modestly above the current price, suggesting that even under a more conservative valuation framework the stock offers upside. The P/E approach at 25x yields C$5.15, broadly consistent with the DCF base case of C$5.39.
 
 ---
 
@@ -372,14 +400,14 @@ The three methodologies converge closely in the Base case around C$6.40-7.20, wi
 
 | Company | Focus | LTM Rev (C$M) | Rev Growth | Stores | EV/Rev | EV/EBITDA | Adj EBITDA Margin |
 |---------|-------|---------------|-----------|--------|--------|-----------|------------------|
-| **HITI** | Retail (Canada) | C$594 | 14% | 218 | 0.55x | 8.5x | 6.4% |
+| **HITI** | Retail (Canada + Germany) | ~C$713 | 20%+ | 218 | 0.42x | 7.8x | 6.4% |
 | SNDL | Retail + LP (Canada) | C$920 | 1% | 300+ | 0.43x | 15x+ | 3% |
 | TLRY | LP + Beverage (Global) | C$821 | 4% | — | 1.0x | 15x | 6.7% |
 | CGC | LP (Canada/Global) | C$290 | -5% | — | 2.5x | Neg | Neg |
 | ACB | LP (Canada/Global) | C$392 | -3% | — | 0.8x | Neg | Neg |
 | CRON | LP (Canada/Global) | C$120 | 5% | — | 3.0x | Neg | Neg |
 
-HITI stands out as the only pure-play cannabis retailer with consistent positive EBITDA and free cash flow. It trades at a low EV/Revenue multiple despite having the highest revenue growth rate and strongest profitability metrics. With the Remexian acquisition, HITI's forward revenue run-rate is substantially higher (~C$700M+), further compressing forward multiples. The discount is partly structural (small-cap, Canadian-listed primary) and partly reflective of cannabis sector pessimism that has not yet adjusted for the transformative Germany business.
+HITI stands out as the only pure-play cannabis retailer with consistent positive EBITDA and free cash flow. With Q1 FY2026 annualized revenue of ~C$713M (including Remexian), HITI trades at a low 0.42x EV/Revenue despite having the highest revenue growth rate and strongest profitability metrics among peers. The discount is partly structural (small-cap, Canadian-listed primary) and partly reflective of cannabis sector pessimism that has not yet adjusted for the transformative Germany business.
 
 ---
 
@@ -391,13 +419,13 @@ Management has acknowledged the e-commerce segment's persistent underperformance
 
 | Metric | With E-Commerce | Without E-Commerce | Delta |
 |--------|-----------------|-------------------|-------|
-| FY2026 Revenue | C$727M | C$715M | -C$12M (-1.7%) |
-| FY2028 Revenue | C$857M | C$847M | -C$10M (-1.2%) |
-| FY2030 Revenue | C$968M | C$958M | -C$10M (-1.0%) |
-| FY2026 EBITDA Margin | 9.5% | 10.0% | +50bps |
-| FY2028 EBITDA Margin | 11.3% | 11.7% | +40bps |
-| FY2030 EBITDA Margin | 12.8% | 13.2% | +40bps |
-| **DCF Implied Price** | **C$7.17** | **C$7.42** | **+C$0.25 (+3.5%)** |
+| FY2026 Revenue | C$723M | C$711M | -C$12M (-1.7%) |
+| FY2028 Revenue | C$859M | C$849M | -C$10M (-1.2%) |
+| FY2030 Revenue | C$979M | C$969M | -C$10M (-1.0%) |
+| FY2026 EBITDA Margin | 6.9% | 7.3% | +40bps |
+| FY2028 EBITDA Margin | 7.5% | 7.9% | +40bps |
+| FY2030 EBITDA Margin | 8.2% | 8.5% | +30bps |
+| **DCF Implied Price** | **C$2.87** | **~C$2.97** | **+~C$0.10 (+3.5%)** |
 
 **One-time closure costs (estimated):**
 - Write-down of remaining e-commerce goodwill/intangibles: C$15-25M (non-cash, partially already impaired)
@@ -421,11 +449,15 @@ This vertical integration — from Canadian supply to European distribution — 
 
 ## Additional Upside: European Market Expansion Beyond Germany
 
-HITI has indicated plans to leverage Remexian's established import and distribution infrastructure to expand into additional European markets beyond Germany. Several EU countries are at various stages of developing medical cannabis frameworks — including the Netherlands, Czech Republic, Poland, Italy, and France — and Remexian's existing regulatory expertise, supply chain relationships, and logistics capabilities provide a natural platform for entering these markets with relatively low incremental investment.
+HITI has indicated plans to leverage Remexian's established import and distribution infrastructure to expand into additional European markets beyond Germany. Specifically:
 
-Germany currently accounts for the majority of European medical cannabis demand, but the broader European market is projected to grow significantly as more countries formalize access programs. Remexian's ability to source from multiple origins (Portugal, Malta, Czech Republic, Germany domestic, and potentially Canada) positions it to serve as a pan-European distributor rather than a Germany-only operation.
+- **United Kingdom:** Management has stated that UK entry is planned within the next ~12 months via M&A. The UK medical cannabis market is growing rapidly and represents a significant incremental revenue opportunity. **This is NOT reflected in the financial model.**
+- **Poland and France:** These are later-stage targets for expansion, with regulatory frameworks at various stages of development. **These are also NOT reflected in the model.**
+- **Other markets:** The Netherlands, Czech Republic, and Italy are at various stages of developing or expanding medical cannabis frameworks. Remexian's existing regulatory expertise, supply chain relationships, and logistics capabilities provide a natural platform for entering these markets with relatively low incremental investment.
 
-**This expansion is not incorporated into our financial model.** Our Germany revenue projections reflect only the existing German medical cannabis market. Any revenue from additional European countries would be incremental to the scenarios presented, further reinforcing the conservatism of our current estimates.
+Germany currently accounts for the majority of European medical cannabis demand, but the broader European market is projected to grow significantly as more countries formalize access programs. Remexian's ability to source from multiple origins (Portugal, Malta, Czech Republic, Germany domestic, and Canada) positions it to serve as a pan-European distributor rather than a Germany-only operation.
+
+**None of this expansion is incorporated into our financial model.** Our Germany revenue projections reflect only the existing German medical cannabis market. Any revenue from the UK, Poland, France, or other European countries would be incremental to the scenarios presented, further reinforcing the conservatism of our current estimates.
 
 ---
 
@@ -451,7 +483,7 @@ The combination of these effects — higher volumes from market migration and im
 
 **E-commerce drag.** The accessories e-commerce segment continues to underperform and has required non-cash impairments. If management cannot divest or restructure this segment efficiently, it will remain a headwind to consolidated profitability.
 
-**Germany execution risk.** The Remexian acquisition was sizable (EUR 26.4M for 51%) and Germany's regulatory framework for recreational cannabis remains uncertain. If recreational legalization stalls or Remexian fails to achieve distribution targets, the acquisition could become a value trap.
+**Germany execution risk.** The Remexian acquisition was sizable (EUR 26.4M for 51%) and Germany's regulatory framework for recreational cannabis remains uncertain. If recreational legalization stalls or Remexian fails to achieve distribution targets, the acquisition could become a value trap. Q1 FY2026 results (C$25M revenue, February record of C$12M) have partially de-risked the integration thesis, but sustained performance remains to be demonstrated.
 
 **Dilution.** Shares outstanding have grown from 74M (FY2023) to 88M (current), representing ~19% dilution over two years. While SBC is modest (C$3.9M), the company has used equity for acquisitions and could continue to do so.
 
@@ -459,19 +491,34 @@ The combination of these effects — higher volumes from market migration and im
 
 **Key-person risk.** CEO Raj Grover has been central to HITI's strategic vision and execution. His departure would create uncertainty.
 
-**Illiquidity and small-cap discount.** With a market cap of ~C$294M (US$216M) and limited institutional ownership (12.9%), the stock is subject to higher volatility and wider bid-ask spreads than large-cap cannabis names.
+**Illiquidity and small-cap discount.** With a market cap of ~C$268M (US$197M) and limited institutional ownership (12.9%), the stock is subject to higher volatility and wider bid-ask spreads than large-cap cannabis names.
 
 ---
 
 ## Conclusion
 
-High Tide is a rare entity in the cannabis sector: a company that has consistently grown revenue, generated positive EBITDA and free cash flow, and built a genuine competitive moat through its discount club model and data platform — all while most peers destroyed shareholder value. The Remexian acquisition transforms the growth profile, adding ~C$105M in annualized revenue at higher margins than the Canadian retail business, while positioning HITI as a leading European cannabis distributor. The stock trades at US$2.48 on NASDAQ (~C$3.37), a level that fails to reflect this transformation.
+High Tide is a rare entity in the cannabis sector: a company that has consistently grown revenue, generated positive EBITDA and free cash flow, and built a genuine competitive moat through its discount club model and data platform — all while most peers destroyed shareholder value. Q1 FY2026 validated the Remexian thesis with C$25M in Germany revenue, a February record of C$12M, and 10.3% market share. The stock trades at US$2.24 on NASDAQ (~C$3.05, as of March 21, 2026).
 
-Our bottom-up sub-segment margin model — which explicitly models white-label penetration, Cabanalytics/advertising scaling, and ELITE membership growth — reveals a margin expansion story that is not visible in a simple flat-margin framework. The Base case implies C$7.17/share — approximately 113% above the current CAD-equivalent price. The Bear case implies C$2.14, reflecting ~37% downside if both Canadian and German growth stall. The Bull case reaches C$12.94 — approximately 284% upside, driven by accelerated white-label adoption and Cabanalytics scaling.
+Our 10-year bottom-up sub-segment margin model at 12% WACC implies a base case of C$5.39/share — approximately 77% upside from the current price. The Bull case at C$7.34 implies ~141% upside, and even the Bear case at C$3.78 implies ~24% upside. The model covers only Canada and Germany — no UK, Poland, France, or US revenue is included.
 
-The risk/reward is highly attractive for patient investors. The primary risk is cannabis sector pessimism, Canadian market saturation, and Remexian execution risk. The primary opportunity is the market's failure to price in the Remexian contribution, the margin expansion from high-margin sub-segments (Cabanalytics, white-label, ELITE), and the potential for cannabis sector risk premiums to normalize. Our 12% WACC already reflects a meaningful premium over comparable consumer retail companies; further compression toward 10% would imply C$9.34/share (+177% upside). Multiple unmodeled tailwinds — Canadian cannabis exports to Europe, illicit market decline, European expansion beyond Germany — provide additional upside optionality.
+The 10-year structure reduces terminal value dependency to ~59% of enterprise value, meaning more than 40% of the valuation is backed by explicit year-by-year FCF projections. The Remexian 49% buyout in FY2028 creates full ownership of the Germany platform, eliminating the NCI drag and significantly boosting equity FCF from FY2029 onward. The terminal state assumes scenario-specific targets: 20% white-label penetration and 1M ELITE members in the base case (Bull: 22%/1.25M, Bear: 16%/750K), with Germany EBITDA reaching C$30M base (Bull: C$40M, Bear: C$25M), all 100% owned — achievable based on current trajectories and management guidance.
 
-The right mental model is not "another cannabis company burning cash" but rather "a disciplined consumer retail operator with Costco-like loyalty economics, a high-margin data monetization platform, and a transformative European distribution business, operating in a sector where the market paints all companies with the same brush."
+The thesis rests on three pillars: (1) significant expansion catalysts excluded from the model — UK entry planned within 12 months, Poland and France as later targets, e-commerce rebound showing early signs (conversion up 30-50%), and any US optionality; (2) Germany execution already validated by Q1 results, with Canadian biomass arriving at best-in-class procurement terms to improve margins further, and the buyout providing full economic ownership; and (3) downside protection from positive FCF, improving operating leverage, conservative margin assumptions (1.0% base SSSG, gradual sub-segment ramps), and a balance sheet that is manageable with C$48M in cash.
+
+The risk/reward is attractive. The primary risks remain cannabis sector pessimism, Canadian market saturation, and Remexian execution beyond the initial quarter. Multiple unmodeled tailwinds — UK/European expansion, Canadian cannabis exports, illicit market decline — provide additional optionality that is not reflected in any scenario.
+
+The right mental model is not "another cannabis company burning cash" but rather "a disciplined consumer retail operator with Costco-like loyalty economics, a validated European distribution platform now on a path to full ownership, and multiple unmodeled growth catalysts, trading at a meaningful discount to conservative intrinsic value."
+
+---
+
+## Sources
+
+- [High Tide Q1 FY2026 Results](https://www.prnewswire.com/news-releases/high-tide-reports-first-quarter-2026-financial-results-featuring-record-revenue-exceeding-700-million-annualized-302716464.html)
+- [Canaccord Genuity Price Target](https://www.dailypolitical.com/2026/03/19/canaccord-genuity-group-forecasts-strong-price-appreciation-for-high-tide-nasdaqhiti-stock.html)
+- [StockAnalysis Consensus Estimates](https://stockanalysis.com/stocks/hiti/forecast/)
+- High Tide FY2025 Annual Report and MD&A
+- SEDAR+ filings and quarterly earnings releases
+- Health Canada cannabis market data
 
 ---
 
