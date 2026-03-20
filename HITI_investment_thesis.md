@@ -22,6 +22,26 @@ The base case of C$5.39 implies approximately 77% upside from the current C$3.05
 
 ---
 
+## Table of Contents
+
+1. [Executive Summary](#executive-summary)
+2. [Company Overview](#company-overview)
+3. [Key Concepts an Investor Must Understand](#key-concepts-an-investor-must-understand)
+4. [Growth Strategy / Key Opportunities](#growth-strategy--key-opportunities)
+5. [Scenario Analysis](#scenario-analysis)
+6. [DCF Valuation Methodology](#dcf-valuation-methodology)
+7. [Bottom-Up Sub-Segment Margin Model](#bottom-up-sub-segment-margin-model)
+8. [Exit Multiple Valuation (FY2035E)](#exit-multiple-valuation-fy2035e)
+9. [Peer Comparison](#peer-comparison)
+10. [Scenario Analysis: E-Commerce Segment Closure](#scenario-analysis-e-commerce-segment-closure)
+11. [Additional Upside: Canadian Cannabis Export to Europe](#additional-upside-canadian-cannabis-export-to-europe)
+12. [Additional Upside: European Market Expansion Beyond Germany](#additional-upside-european-market-expansion-beyond-germany)
+13. [Structural Tailwind: Illicit Market Decline and Pricing Power](#structural-tailwind-illicit-market-decline-and-pricing-power)
+14. [Key Risks](#key-risks)
+15. [Conclusion](#conclusion)
+
+---
+
 ## Company Overview
 
 **What HITI does.** High Tide is a vertically-oriented cannabis consumer company. Its core business is Canadian cannabis retail through the Canna Cabana brand. Beyond retail, HITI operates a global e-commerce platform selling cannabis accessories and CBD products, a data analytics business (Cabanalytics), and since September 2025, a medical cannabis distribution business in Germany through its 51% stake in Remexian Pharma.
