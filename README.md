@@ -1,6 +1,6 @@
 # High Tide (NASDAQ: HITI) — Investment Analysis
 
-Independent investment analysis of High Tide Inc., Canada's largest non-franchised cannabis retailer operating 220 Canna Cabana stores with a disruptive Costco-like discount club model (2.58M members), supplemented by global e-commerce and a medical cannabis distribution business in Germany.
+Independent investment analysis of High Tide Inc., Canada's largest non-franchised cannabis retailer operating 228 Canna Cabana stores (229 announced) with a disruptive Costco-like discount club model (2.65M members), supplemented by global e-commerce and a medical cannabis distribution business in Germany (Remexian).
 
 ## Contents
 
@@ -12,23 +12,23 @@ Independent investment analysis of High Tide Inc., Canada's largest non-franchis
 
 ## Thesis Summary
 
-**Date:** March 21, 2026 | **Data basis:** FY2025 audited financials + Q1 FY2026 results (quarter ended January 31, 2026)
+**Date:** June 16, 2026 | **Data basis:** FY2025 audited financials + H1 FY2026 results (Q2 ended April 30, 2026)
 
-High Tide has grown revenue from C$181M (FY2021) to C$594M (FY2025) while delivering 22 consecutive quarters of positive Adjusted EBITDA. The September 2025 Remexian acquisition adds ~C$105M in annualized European distribution revenue. The stock trades at US$2.24 on NASDAQ (~C$3.05), implying 0.42x EV/Revenue and 7.8x EV/Adj. EBITDA. Our 10-year two-phase DCF yields a base-case fair value of C$5.39 per share (+77% upside), with bull C$7.34 (+141%) and bear C$3.78 (+24%). The model covers only Canada and Germany — UK, Poland, France, and US expansion are excluded, representing additional unmodeled upside.
+High Tide has grown revenue from C$181M (FY2021) to C$594M (FY2025) and posted record Q2 FY2026 revenue of C$179.3M (+30% YoY) with Adjusted EBITDA of C$13.9M (+73%) and its first-ever quarterly net profit. The September 2025 Remexian acquisition is outperforming — Q2 German revenue hit C$31.6M at a 27% gross margin (up from 12% in Q1). The stock trades at US$2.44 on NASDAQ (~C$3.44), implying ~0.51x EV/Revenue and ~7.1x EV/Adj. EBITDA on LTM figures. Our 10-year two-phase DCF yields a base-case fair value of C$5.53 per share (+61% upside), with bull C$7.59 (+121%) and bear C$3.62 (+5%). The model covers only Canada and Germany — UK, Poland, France, and US expansion are excluded, representing additional unmodeled upside.
 
 ### DCF Valuation (C$, diluted)
 
 | Scenario | Implied Price | FY2030E Revenue | FY2030E Adj EBITDA |
 |----------|--------------|-----------------|---------------------|
-| Bull     | C$7.34       | C$1,154M        | C$107M              |
-| Base     | C$5.39       | C$1,026M        | C$86M               |
-| Bear     | C$3.78       | C$871M          | C$66M               |
+| Bull     | C$7.59       | C$1,140M        | C$121M              |
+| Base     | C$5.53       | C$1,054M        | C$97M               |
+| Bear     | C$3.62       | C$896M          | C$68M               |
 
 ### Key Investment Pillars
 
 1. **Store-count growth** in a fragmented Canadian market where Canna Cabana holds only 12% share
 2. **Cabana Club discount model** driving industry-leading same-store sales growth and customer loyalty
-3. **Remexian acquisition** transforms HITI into a leading European medical cannabis distributor — Q1 FY2026 revenue of C$25M from Remexian validates the acquisition thesis, with Canadian export pipeline as unmodeled upside
+3. **Remexian acquisition** transforms HITI into a leading European medical cannabis distributor — Q2 FY2026 revenue of C$31.6M (+26% QoQ) at a 27% gross margin (vs 12% in Q1) and 14% German market share validate the acquisition thesis, with Canadian export pipeline as unmodeled upside
 
 ## Methodology
 
@@ -46,7 +46,7 @@ High Tide has grown revenue from C$181M (FY2021) to C$594M (FY2025) while delive
 - [SEC Filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=high+tide&CIK=&type=20-F&dateb=&owner=include&count=10&search_text=&action=getcompany)
 - [Company Website](https://hightideinc.com/)
 - Analyst coverage: BEACON Securities, ROTH Capital Partners, Haywood Securities, TD Cowen, Canaccord Genuity
-- [Q1 FY2026 Press Release](https://www.prnewswire.com/news-releases/high-tide-reports-first-quarter-2026-financial-results-featuring-record-revenue-exceeding-700-million-annualized-302716464.html)
+- [Q2 FY2026 Press Release](https://www.prnewswire.com/news-releases/high-tide-reports-second-quarter-2026-financial-results-featuring-record-revenue-of-179-3mm-and-adjusted-ebitda-of-13-9mm-302800698.html)
 
 ## Disclaimer
 
